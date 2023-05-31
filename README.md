@@ -1,2 +1,2 @@
 # Sloth-Analysis
-In this project, We performed sloth data exploratory analysis and made prediction through classification and linear regression.
+In this project, we performed sloth data exploratory analysis and made prediction through classification and linear regression.
